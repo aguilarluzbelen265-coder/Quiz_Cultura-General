@@ -15,6 +15,6 @@ INSTRUCCIONES DE EJECUCION:
 
 1.Clona este repositorio o descarga todos los archivos del proyecto en una misma carpeta(asegurate de que 'juego.py' y tu archivo de preguntas '.json' esten juntos).
 
-2.Abre tu terminal o línea de comandos.
+2.Abre la carpeta donde guardaste los archivos.
 
-3.Navega hasta la carpeta donde se encuentra el proyecto :
+3.Haz doble click sobre el archivo 'juego.py'(o ábrelo en un editor de código favorito, como VS Code, y presiona el botón de ejecutar ). 
