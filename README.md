@@ -1,4 +1,4 @@
-# Quiz_Cultura-General
+# Proyecto_Cultura-General
 QUIZ CULTURA GENERAL
 
 
