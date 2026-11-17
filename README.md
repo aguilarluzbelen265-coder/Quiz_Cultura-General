@@ -17,4 +17,4 @@ INSTRUCCIONES DE EJECUCION:
 
 2.Abre la carpeta donde guardaste los archivos.
 
-3.Haz doble click sobre el archivo 'juego.py'(o ábrelo en un editor de código favorito, como VS Code, y presiona el botón de ejecutar ). 
+3.Si estas usando VS Code, ve a File-Open Folder y selecciona la carpeta donde tienes guardados tanto el script como las preguntas. 
